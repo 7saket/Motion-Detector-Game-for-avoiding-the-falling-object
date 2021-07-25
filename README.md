@@ -1,1 +1,1 @@
-# Newton-s-Apple-Falling-Game
+Motion Detector Game for avoiding the falling object 
